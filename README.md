@@ -1,7 +1,6 @@
 # React + Vite
 
-To Visit it Live => https://ecommerce-product-assignment.netlify.app/
-
+To Visit it Live => https://drinkware-ecommerce-productpage.netlify.app/
 feature includes a fully integrated product page designed to enhance user experience and streamline purchasing. This page not only showcases products in a visually appealing and informative manner but also incorporates a sophisticated cart and checkout system.
 Key Highlights:
 
