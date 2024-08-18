@@ -1,0 +1,11 @@
+export { default as Trending } from "../components/trending/Trending";
+export { default as Product1 } from "../components/bottle/Product1";
+export { default as Product2 } from "../components/bottle/Product1";
+export { default as Product3 } from "../components/bottle/Product1";
+export { default as Product4 } from "../components/bottle/Product1";
+export { default as Product5 } from "../components/bottle/Product1";
+export { default as Product6 } from "../components/bottle/Product1";
+export { default as Product7 } from "../components/bottle/Product1";
+export { default as Cart } from "../components/cart/Cart";
+export { default as Footer } from "../components/footer/Footer.jsx";
+export { default as SubFooter } from "../components/footer/SubFooter.jsx";

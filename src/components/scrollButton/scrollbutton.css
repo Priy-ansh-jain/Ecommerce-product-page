@@ -1,0 +1,41 @@
+.top-to-btm {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+}
+
+.icon-position {
+  font-size: 40px;
+  cursor: pointer;
+  background-color: rgb(17, 16, 16);
+  color: #b9b9b9;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(75, 15, 15, 0.1);
+  transition: background-color 0.3s ease;
+  border-color: #f6004c;
+  border-style: dotted;
+  animation: rotate 3s infinite ;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.icon-position:hover {
+  background-color: transparent;
+  border-style: none;
+  background-color: #f6004c;
+}
+
+.icon-style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
